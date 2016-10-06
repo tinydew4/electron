@@ -1,0 +1,5 @@
+{
+    "root": "docs/",
+    "title": "Electron documentation",
+    "gitbook": ">= 3.2.2"
+}
